@@ -13,7 +13,6 @@ namespace exercise
         // Fungsi / Method untuk menerima masukan
         public void read()
         {
-
             // Menerima angka untuk menentukan banyaknya data yang disimpan pada array 
             while (true)
             {
